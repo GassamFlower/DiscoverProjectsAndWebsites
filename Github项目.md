@@ -24,7 +24,12 @@ Github项目太多了，本地记载多了就会遗忘，在这里记录一下�
 | [https://github.com/MyBigKnowledgeBase/skill-map](https://github.com/MyBigKnowledgeBase/skill-map) | <font style="color:rgb(31, 35, 40);">程序员技能图谱是由极客邦科技 Geekbang（</font>[https://www.geekbang.org/](https://www.geekbang.org/)<font style="color:rgb(31, 35, 40);">）发起的一个技术社区开源项目，志在汇集、整理、共建泛 IT 技术领域（人工智能，前端开发，移动开发，云计算，大数据，架构，运维，安全，后端开发，测试，智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便技术人学习成长。</font> |
 | [https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file](https://github.com/YSGStudyHards/DotNetGuide?tab=readme-ov-file) | <font style="color:rgb(31, 35, 40);">【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。</font> |
 | [GitHub - doocs/leetcode: 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解](https://github.com/doocs/leetcode) | LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 |
-| [GitHub - g1879/DrissionPage: Python based web automation tool. Powerful and elegant.](https://github.com/g1879/DrissionPage) | 基于 Python 的 Web 自动化工具。功能强大且优雅。 |
+| [DrissionPage -python的网页自动化工具](https://github.com/g1879/DrissionPage) | 基于 Python 的 Web 自动化工具。功能强大且优雅。 |
+| [302.人工智能](https://github.com/302ai) | <font style="color:rgb(31, 35, 40);">按使用量付费的一体化人工智能应用平台</font> |
+| [kk终端](https://github.com/zyyzyykk/kkTerminal) | <font style="color:rgb(89, 99, 110);">kkTerminal，用于 Web SSH 连接的终端</font> |
+| [dimmer](https://github.com/slc3a2/dimmer) | <font style="color:rgb(31, 35, 40);"> Chrome扩展程序「关灯」暗黑模式一键切换。</font> |
+| [ThriveX 现代化博客管理系统](https://github.com/LiuYuYang01/ThriveX-Blog) | <font style="color:rgb(31, 35, 40);"> ThriveX 是一个 Nextjs14 + Spring Boot 的产品，该项目专注于分享技术文章和知识，为技术爱好者和从业者提供一个分享、交流和学习的平台。用户可以在平台上发表自己的文章技术，或浏览其他用户分享的文章，并与他们进行讨论和互动。</font> |
+| [逆向工程](https://github.com/mytechnotalent/Reverse-Engineering) | <font style="color:rgb(31, 35, 40);">免费的综合逆向工程教程，涵盖 x86、x64、32 位/64 位 ARM 和嵌入式 RISC-V 架构。</font> |
 
 
 
