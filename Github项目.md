@@ -30,6 +30,7 @@ Github项目太多了，本地记载多了就会遗忘，在这里记录一下�
 | [dimmer](https://github.com/slc3a2/dimmer) | <font style="color:rgb(31, 35, 40);"> Chrome扩展程序「关灯」暗黑模式一键切换。</font> |
 | [ThriveX 现代化博客管理系统](https://github.com/LiuYuYang01/ThriveX-Blog) | <font style="color:rgb(31, 35, 40);"> ThriveX 是一个 Nextjs14 + Spring Boot 的产品，该项目专注于分享技术文章和知识，为技术爱好者和从业者提供一个分享、交流和学习的平台。用户可以在平台上发表自己的文章技术，或浏览其他用户分享的文章，并与他们进行讨论和互动。</font> |
 | [逆向工程](https://github.com/mytechnotalent/Reverse-Engineering) | <font style="color:rgb(31, 35, 40);">免费的综合逆向工程教程，涵盖 x86、x64、32 位/64 位 ARM 和嵌入式 RISC-V 架构。</font> |
+| [Linux教程](https://github.com/dunwu/linux-tutorial) | <font style="color:rgb(31, 35, 40);"> Linux教程，主要内容：Linux命令、Linux系统运维、软件运维、精选常用Shell脚本</font> |
 
 
 
