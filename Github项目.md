@@ -35,6 +35,7 @@ Github项目太多了，本地记载多了就会遗忘，在这里记录一下�
 | [GitHub - opsre/WatchAlert: 🚀一款轻量级云原生监控报警管理系统，支持对接Prometheus、VictoriaMetric、CloudWatch、Loki、AliCloudSLS、Jaeger、KubernetesEvent、ElasticSearch;](https://github.com/opsre/WatchAlert?tab=readme-ov-file) | <font style="color:rgb(31, 35, 40);">一款轻量级云原生监控报警管理系统，支持对接Prometheus、VictoriaMetric、CloudWatch、Loki、AliCloudSLS、Jaeger、KubernetesEvent、ElasticSearch;</font> |
 | [GitHub - JiuRanYa/IconEase: Modern desktop application for efficient icon collection management and organization.](https://github.com/JiuRanYa/IconEase) | <font style="color:rgb(31, 35, 40);">Modern desktop application for efficient icon collection management and organization.   </font><font style="color:rgb(31, 35, 40);">用于高效图标集合管理和组织的现代桌面应用程序。</font> |
 | [GitHub - ErwannMillon/Color-diffusion: A diffusion model to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion) | <font style="color:rgb(31, 35, 40);">一种用于黑白图像着色的扩散模型</font> |
+| [GitHub - tgbot-collection/YYeTsBot: 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享](https://github.com/tgbot-collection/YYeTsBot?tab=readme-ov-file) | <font style="color:rgb(31, 35, 40);">人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享</font> |
 
 
 
