@@ -36,6 +36,10 @@ Github项目太多了，本地记载多了就会遗忘，在这里记录一下�
 | [GitHub - JiuRanYa/IconEase: Modern desktop application for efficient icon collection management and organization.](https://github.com/JiuRanYa/IconEase) | <font style="color:rgb(31, 35, 40);">Modern desktop application for efficient icon collection management and organization.   </font><font style="color:rgb(31, 35, 40);">用于高效图标集合管理和组织的现代桌面应用程序。</font> |
 | [GitHub - ErwannMillon/Color-diffusion: A diffusion model to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion) | <font style="color:rgb(31, 35, 40);">一种用于黑白图像着色的扩散模型</font> |
 | [GitHub - tgbot-collection/YYeTsBot: 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享](https://github.com/tgbot-collection/YYeTsBot?tab=readme-ov-file) | <font style="color:rgb(31, 35, 40);">人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享</font> |
+| [GitHub - Orenoid/BabelDuck: 更适合新手的 AI 口语对话练习应用 / Beginner-friendly AI conversation practice application](https://github.com/Orenoid/BabelDuck) | <font style="color:rgb(31, 35, 40);">更适合新手的 AI 口语对话练习应用 </font> |
+| [GitHub - dvcoolarun/web2pdf: 🔄 CLI to convert Webpages to PDFs 🚀](https://github.com/dvcoolarun/web2pdf) | <font style="color:rgb(31, 35, 40);"> CLI 将网页转换为 PDF </font> |
+| [GitHub - stackblitz-labs/bolt.diy: Prompt, run, edit, and deploy full-stack web applications using any LLM you want!](https://github.com/stackblitz-labs/bolt.diy) | <font style="color:rgb(31, 35, 40);">Prompt, run, edit, and deploy full-stack web applications using any LLM you want!   </font><font style="color:rgb(31, 35, 40);">使用您想要的任何 LLM！</font> |
+| [GitHub - stackblitz/bolt.new: Prompt, run, edit, and deploy full-stack web applications](https://github.com/stackblitz/bolt.new?tab=readme-ov-file) | <font style="color:rgb(31, 35, 40);">提示、运行、编辑和部署全栈 Web 应用程序</font> |
 
 
 
